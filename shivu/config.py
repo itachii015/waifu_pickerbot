@@ -14,7 +14,7 @@ class Config(object):
     CHARA_CHANNEL_ID = "-1002374696109"
     api_id = 28682516
     api_hash = "bb43fa00569d8f4de75aad6bdeb3650d"
-
+    Port = 8080
     
 class Production(Config):
     LOGGER = True
