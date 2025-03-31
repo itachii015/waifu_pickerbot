@@ -6,12 +6,12 @@ class Config(object):
     sudo_users = "6312154011", "1350736363"
     GROUP_ID = -1002374696109
     Port = 8080
-    TOKEN = "8058000288:AAE_jFBEH6l_LuabvVJJ9WwVzShHxNxbvGw"
+    TOKEN = "7813169206:AAGysB2nOrVjeqdqlLmcg6Cdat84y1TLTs0"
     mongo_url = "mongodb+srv://itachii130506:idjVit5zIoSOL3Gv@cluster0.vmsab.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "Collect_your_waifu_support"
     UPDATE_CHAT = "Collect_your_waifu_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
+    BOT_USERNAME = "Collect_your_waifu_bot"
     CHARA_CHANNEL_ID = "-1002374696109"
     api_id = 28682516
     api_hash = "bb43fa00569d8f4de75aad6bdeb3650d"
