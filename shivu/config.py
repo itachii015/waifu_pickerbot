@@ -11,7 +11,7 @@ class Config(object):
     SUPPORT_CHAT = "Waifu_picker_chat"
     UPDATE_CHAT = "Waifu_picker_chat"
     BOT_USERNAME = "Waifu_picker_bot"
-    CHARA_CHANNEL_ID = "-1002599514806"
+    CHARA_CHANNEL_ID = "-1002308742668"
     api_id = 21283098
     api_hash = "a272cc3d3fc74a28df77951"
     
